@@ -1,1 +1,1 @@
-# .github
+# Power Platform Resources
