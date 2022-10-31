@@ -1,4 +1,4 @@
-## Hi there 👋
+## ![Power Platform](images/PowerPlatform_scalable.svg) Power Platform Resources
 
 <!--
 
