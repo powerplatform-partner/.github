@@ -1,12 +1,16 @@
-## ![Power Platform](images/PowerPlatform_scalable.svg) Power Platform Resources
+# ![Power Platform](images/PowerPlatform_scalable.svg) Power Platform Resources
 
-<!--
 
-**Here are some ideas to get you started:**
+## ![Power Apps](images/PowerPlatform_scalable.svg) Power Apps
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ![Power Apps](images/PowerAutomate_scalable.svg) Power Automate
+
+## ![Power Apps](images/PowerPages_scalable.svg) Power Pages
+
+## ![Power Apps](images/Dataverse_scalable.svg) Dataverse
+
+## ![Power Apps](images/AIBuilder_scalable.svg) AI Builder
+
+## ![Power Apps](images/PowerVirtualAgents_scalable.svg) Power Virtual Agents
+
+## ![Power Apps](images/PowerFx_scalable.svg) Power Fx
