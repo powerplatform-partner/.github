@@ -1,4 +1,4 @@
-# ![Power Platform](images/PowerPlatform_scalable.svg) Power Platform Resources
+# ![Power Platform](../images/PowerPlatform_scalable.svg) Power Platform Resources
 
 
 ## ![Power Apps](images/PowerPlatform_scalable.svg) Power Apps
