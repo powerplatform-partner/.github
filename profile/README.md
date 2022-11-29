@@ -10,11 +10,11 @@
 
 | :books: Learn :arrow_right: | :wrench: Build :arrow_right: | :moneybag: Launch :arrow_right: | :chart: Grow |
 | ----- | ------- | ------ | ---- |
-| [Power Apps](https://github.com/powerplatform-partner/Power-Apps) | Power | | |
-| [Power Automate](https://github.com/powerplatform-partner/Power-Automate) | | | |
-| [Power Pages](https://github.com/powerplatform-partner/Power-Pages) | | | |
-| [Power Virtual Agents](https://github.com/powerplatform-partner/Power-Virtual-Agents) | | | |
+| [Power Apps](https://github.com/powerplatform-partner/Power-Apps) | [Power Apps Usecases](https://powerplatformpartners.transform.microsoft.com/products/powerapps?tab=go-to-market#:~:text=Industry%20targeted%20content,Estate%20and%20Facilities) | | |
+| [Power Automate](https://github.com/powerplatform-partner/Power-Automate) | [Power Automate Usecases](https://powerplatformpartners.transform.microsoft.com/products/powerautomate?tab=go-to-market#:~:text=Industry%20targeted%20content,Automate%20in%20Finance) | | |
+| [Power Pages](https://github.com/powerplatform-partner/Power-Pages) | [Sample Usecases](https://learn.microsoft.com/en-us/power-pages/templates/)| | |
+| [Power Virtual Agents](https://github.com/powerplatform-partner/Power-Virtual-Agents) | [Samples Usecases](https://learn.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents#:~:text=These%20bots%20can,shortest%20time%20possible) | | |
 | [Dataverse](https://github.com/powerplatform-partner/Dataverse) | | | |
-| [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | | | |
+| [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | [Sample Scenarios](https://learn.microsoft.com/en-us/ai-builder/model-types#common-business-scenarios) | | |
 | [Power Fx](https://github.com/powerplatform-partner/Power-Fx) | | | |
 | [Get certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR) | | | |
