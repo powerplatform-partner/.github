@@ -10,10 +10,11 @@
 
 | :books: Learn :arrow_right: | :wrench: Build :arrow_right: | :moneybag: Launch :arrow_right: | :chart: Grow |
 | ----- | ------- | ------ | ---- |
-| Power Apps |  | | |
-| Power Automate | | | |
-| Power Pages | | | |
-| Power Virtual Agents | | | |
-| Dataverse | | | |
-| AI Builder | | | |
-| Power Fx | | | |
+| [Power Apps](https://github.com/powerplatform-partner/Power-Apps) | Power | | |
+| [Power Automate](https://github.com/powerplatform-partner/Power-Automate) | | | |
+| [Power Pages](https://github.com/powerplatform-partner/Power-Pages) | | | |
+| [Power Virtual Agents](https://github.com/powerplatform-partner/Power-Virtual-Agents) | | | |
+| [Dataverse](https://github.com/powerplatform-partner/Dataverse) | | | |
+| [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | | | |
+| [Power Fx](https://github.com/powerplatform-partner/Power-Fx) | | | |
+| | | | |
