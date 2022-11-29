@@ -1,6 +1,6 @@
 # Power Platform Resources
 
-<img src="https://github.com/powerplatform-partner/.github/blob/main/profile/images/pp_image.png" width="800" height="600">
+<img src="https://github.com/powerplatform-partner/.github/blob/main/profile/images/pp_image.png" width="900" height="550">
 
 ## :bookmark: Important links
 
@@ -16,3 +16,4 @@
 | Power Virtual Agents | | | |
 | Dataverse | | | |
 | AI Builder | | | |
+| Power Fx | | | |
