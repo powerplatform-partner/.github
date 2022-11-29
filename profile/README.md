@@ -17,4 +17,4 @@
 | [Dataverse](https://github.com/powerplatform-partner/Dataverse) | | | |
 | [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | | | |
 | [Power Fx](https://github.com/powerplatform-partner/Power-Fx) | | | |
-| | | | |
+| [Get certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR) | | | |
