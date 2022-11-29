@@ -14,7 +14,9 @@
 | [Power Automate](https://github.com/powerplatform-partner/Power-Automate) | [Sample Power Automate Usecases](https://powerplatformpartners.transform.microsoft.com/products/powerautomate?tab=go-to-market#:~:text=Industry%20targeted%20content,Automate%20in%20Finance) | | |
 | [Power Pages](https://github.com/powerplatform-partner/Power-Pages) | [Sample Power Pages Usecases](https://learn.microsoft.com/en-us/power-pages/templates/)| | |
 | [Power Virtual Agents](https://github.com/powerplatform-partner/Power-Virtual-Agents) | [Samples PVA Usecases](https://learn.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents#:~:text=These%20bots%20can,shortest%20time%20possible) | | |
-| [Dataverse](https://github.com/powerplatform-partner/Dataverse) | | | |
-| [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | [Sample Scenarios](https://learn.microsoft.com/en-us/ai-builder/model-types#common-business-scenarios) | | |
+| [Dataverse](https://github.com/powerplatform-partner/Dataverse) | [Sample Dataverse customer stories](https://powerapps.microsoft.com/en-us/blog/power-platform-stories/#:~:text=Schools%0A%7C%20Telstra-,Dataverse,Retail%20Development%20%7C%20IKEA%20Sweden%20%7C%20Seattle%20Visiting%20Nurses%20Association%20(SVNA),-AI%20Builder) | | |
+| [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | [Sample AI Builder Scenarios](https://learn.microsoft.com/en-us/ai-builder/model-types#common-business-scenarios) | | |
 | [Power Fx](https://github.com/powerplatform-partner/Power-Fx) | | | |
-| [Get certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR) | [Customer Stories](https://powerapps.microsoft.com/en-us/blog/power-platform-stories/)| | |
+| [Get certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR) | [Publish your apps](https://appsource.microsoft.com/en-US/)| | |
+
+Request for content 
