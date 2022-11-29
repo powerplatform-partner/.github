@@ -1,6 +1,6 @@
 # Power Platform Resources
 
-<img src="https://github.com/powerplatform-partner/.github/blob/main/profile/images/pp_image.png" width="100" height="100">
+<img src="https://github.com/powerplatform-partner/.github/blob/main/profile/images/pp_image.png" width="200" height="200">
 
 ## :bookmark: Important links
 
