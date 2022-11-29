@@ -18,5 +18,3 @@
 | [AI Builder](https://github.com/powerplatform-partner/AI-Builder) | [Sample AI Builder Scenarios](https://learn.microsoft.com/en-us/ai-builder/model-types#common-business-scenarios) | | |
 | [Power Fx](https://github.com/powerplatform-partner/Power-Fx) | | | |
 | [Get certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR) | [Publish your apps](https://appsource.microsoft.com/en-US/)| | |
-
-Request for content 
